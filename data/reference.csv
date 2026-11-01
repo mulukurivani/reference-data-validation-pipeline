@@ -1,0 +1,4 @@
+code,status,valid_from,valid_to,version
+IND,active,2025-01-01,2027-12-31,v1
+USA,active,2025-01-01,2027-12-31,v1
+UK,deprecated,2025-01-01,2027-12-31,v1

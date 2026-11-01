@@ -1,0 +1,6 @@
+REFERENCE DATA VALIDATION REPORT
+--------------------------------
+Run ID: 91e22076-9461-4760-8535-afb9ea18611c
+Total records: 5
+Valid records: 3
+Rejected records: 2
